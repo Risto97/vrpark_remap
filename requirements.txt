@@ -1,0 +1,2 @@
+evdev==1.6.1
+py_notifier==0.3.2

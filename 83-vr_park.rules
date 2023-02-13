@@ -1,0 +1,2 @@
+
+KERNEL=="event[0-9]*", SUBSYSTEM=="input", SUBSYSTEMS=="input", ATTRS{name}=="VR-PARK", MODE="0660", RUN+="/tools/work/vrpark_remap/run_remap.sh '%E{DEVNAME}'"
