@@ -37,7 +37,7 @@ Originally the joystick of the remote controller is acting as a mouse.
 
 
 ### Original Layout
-<img src="docs/vrp  ark_original_layout.png" alt="Original layout" style="width:500px;"/>
+<img src="docs/vrpark_original_layout.png" alt="Original layout" style="width:500px;"/>
 
 ### Remapped layout
 
